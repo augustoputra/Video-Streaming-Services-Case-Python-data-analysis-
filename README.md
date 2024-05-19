@@ -1,4 +1,4 @@
-These are python project for Video Streaming Services Subscription data input
+This is a python project for Video Streaming Services Subscription data input
 it utilizes the basics of Object Oriented Programming which uses class, and method
 To summarize, this program have a data in list format, consisting of username, and their subscription plan, and years of their subscription
 Thera are 2 class, User() and NewUser()
